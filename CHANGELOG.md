@@ -4,7 +4,7 @@
 
 ### enhancements
 
-* Rail 5 supported.
+* Rail 5 supported
 
 ## 0.0.4 (April 7, 2014)
 
@@ -16,13 +16,13 @@
 
 ### enhancements
 
-* Rails 4 supported.
+* Rails 4 supported
 
 ## 0.0.2 (January 25, 2013)
 
 ### enhancements
 
-* All provider supported.
+* All provider supported
 
 ## 0.0.1 (January 20, 2013)
 
